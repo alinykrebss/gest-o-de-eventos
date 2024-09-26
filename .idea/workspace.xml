@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb6836c3-877b-4028-a724-5cdf236d0291" name="Changes" comment="gestao de eventos add" />
+    <list default="true" id="eb6836c3-877b-4028-a724-5cdf236d0291" name="Changes" comment="gestao de eventos add">
+      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/gestaodeeventos/util/funcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/gestaodeeventos/view/principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/unisep/gestaodeeventos/Inscricao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/unisep/gestaodeeventos/model/Inscricao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/unisep/gestaodeeventos/Palestrante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/unisep/gestaodeeventos/model/Palestrante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/unisep/gestaodeeventos/Sessao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/unisep/gestaodeeventos/model/Sessao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/unisep/gestaodeeventos/evento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/unisep/gestaodeeventos/participante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/unisep/gestaodeeventos/model/participante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/unisep/gestaodeeventos/view.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +31,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alinykrebss&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alinykrebss/gest-o-de-eventos.git&quot;,
+    &quot;accountId&quot;: &quot;70bfb8fa-a269-4af8-adaf-e8d7971ef700&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2mJKfEyCue0iwhAyPTA26aqPiPL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,6 +57,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.evento.executor": "Run",
+    "Application.principal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -39,9 +67,17 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.edu.unisep.gestaodeeventos.util" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,7 +94,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726789340616</updated>
-      <workItem from="1726789341666" duration="1508000" />
+      <workItem from="1726789341666" duration="2002000" />
+      <workItem from="1726792469665" duration="88000" />
+      <workItem from="1726792638095" duration="6000" />
+      <workItem from="1726792735161" duration="601000" />
+      <workItem from="1726793348379" duration="490000" />
+      <workItem from="1726793855346" duration="101000" />
+      <workItem from="1726794006851" duration="80000" />
+      <workItem from="1726794261686" duration="877000" />
+      <workItem from="1726795238147" duration="84000" />
+      <workItem from="1726795347223" duration="7000" />
+      <workItem from="1726795389018" duration="19000" />
+      <workItem from="1726795419380" duration="153000" />
+      <workItem from="1726795590781" duration="4000" />
+      <workItem from="1726795601326" duration="39000" />
+      <workItem from="1726795645522" duration="14000" />
+      <workItem from="1726795672894" duration="297000" />
+      <workItem from="1726937332840" duration="550000" />
+      <workItem from="1726937929927" duration="16000" />
+      <workItem from="1726937963134" duration="540000" />
+      <workItem from="1726938520263" duration="1493000" />
+      <workItem from="1726940033350" duration="1326000" />
+      <workItem from="1726941399491" duration="39000" />
+      <workItem from="1726941459125" duration="60000" />
+      <workItem from="1726960948096" duration="406000" />
+      <workItem from="1726961387683" duration="3759000" />
     </task>
     <task id="LOCAL-00001" summary="gestao de eventos add">
       <option name="closed" value="true" />
@@ -68,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726791914509</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gestao de eventos add">
+      <option name="closed" value="true" />
+      <created>1726791961534</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726791961534</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
